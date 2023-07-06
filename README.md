@@ -2,7 +2,7 @@
 Description: This is my first project on React.js, created for learning purposes.
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/your-project.git
+Clone the repository: git clone https://github.com/immortal90/React_App.git
 Navigate to the project directory: cd your-project
 Install dependencies: npm install
 
